@@ -7,3 +7,5 @@ This is a collection of my HackerRank solutions written in Python3. The goal of 
     Abbreviation
     Candies
     
+## 30-Days-of-code
+   
