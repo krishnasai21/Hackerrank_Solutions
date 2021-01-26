@@ -10,3 +10,6 @@ This is a collection of my HackerRank solutions written in Python3. The goal of 
 ## 30-Days-of-code
      Day - 1 : Hello World
      Day - 2 : 
+
+## 10-Days-of-JavaScript
+     Day 0 : Data types
