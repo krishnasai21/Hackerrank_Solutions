@@ -8,4 +8,5 @@ This is a collection of my HackerRank solutions written in Python3. The goal of 
     Candies
     
 ## 30-Days-of-code
-   
+     Day - 1 : Hello World
+     Day - 2 : 
