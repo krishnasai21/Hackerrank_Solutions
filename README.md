@@ -8,8 +8,16 @@ This is a collection of my HackerRank solutions written in Python3. The goal of 
     Candies
     
 ## 30-Days-of-code
-     Day - 1 : Hello World
-     Day - 2 : 
+     Day - 0: Hello World
+     Day - 1: Data Types
 
 ## 10-Days-of-JavaScript
      Day 0 : Data types
+     
+     Day 1 : (a) Arithmetic Operators
+             (b) Functions
+             (c) Let and Const
+     
+     Day 2 : (a) Conditional Statemens If-Else
+             (b) Conditional Statements Switch
+             (C) Loops
