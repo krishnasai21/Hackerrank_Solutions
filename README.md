@@ -8,6 +8,10 @@ This is a collection of my HackerRank solutions written in Python3. The goal of 
     Candies
     
 ## 30-Days-of-code
+    Day 0 - Day 29
+    
+    All the Solutions are in Java Language
+
 
 
 ## 10-Days-of-JavaScript
