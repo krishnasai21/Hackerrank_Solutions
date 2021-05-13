@@ -1,0 +1,4 @@
+-- github.com/Kkrishnasai21
+
+SELECT NAME FROM CITY
+WHERE COUNTRYCODE = 'JPN';
